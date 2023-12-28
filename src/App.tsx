@@ -154,7 +154,7 @@ const App: React.FC = () => {
           })}
         </Container>
         <Box textAlign="center">
-          <button onClick={loadMoreData}>Load more</button>
+          <button onClick={loadMoreData}>Load more2222</button>
         </Box>
       </div>
     </div>
